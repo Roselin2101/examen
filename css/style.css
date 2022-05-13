@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.colorFondo {
+    background-color: #563883 !important;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #fff !important;
+    font-weight: 600;
+}
+
+a.nav-link.active {
+    color: beige;
+}
+
+.color-m {
+    color: #563883;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+div.col-md-6 {
+    background-color: rgb(247, 245, 245);
+}
